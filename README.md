@@ -1,3 +1,6 @@
+# My personal landing page:
+* landing page forked from: https://github.com/flexdinesh/dev-landing-page
+
 # Dev Landing Page
 
 Minimal landing page for developers.
